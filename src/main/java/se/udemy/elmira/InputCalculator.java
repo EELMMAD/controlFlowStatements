@@ -21,9 +21,7 @@ public class InputCalculator {
             System.out.println("SUM = " + 0 + " AVG = " + 0);
         }
     }
-
     }
-
 
             /*
             Write a method called inputThenPrintSumAndAverage that does not have any parameters.
